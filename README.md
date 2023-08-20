@@ -41,7 +41,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Architecture After Hardening / Security Controls
 
-![Architecture After Hardening _ Security Controls](https://github.com/esteban-flores/Azure-SOC-Honey-Net/assets/60724828/4d249d56-72fc-4fb3-89f4-d456fbefae81)
+![Architecture After Hardening _ Security Controls](https://github.com/esteban-flores/Azure-SOC-Honey-Net/assets/60724828/ad54d51b-f975-4331-98da-8132b0901d7b)
 
 ## Attack Maps Before Hardening / Security Controls
 
