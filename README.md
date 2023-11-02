@@ -6,7 +6,7 @@
 
 This is the biggest and most intensive project that I have built so far. The goal was to simulate what may happen in a Security Operations Center(SOC).
 A mini honeynet was built in Microsoft Azure. Logs were ingested from various resources into Log Analytics workspace(LAW). Queries were written in Kusto Query Language (KQL).
-The LAW was then used to help visualize the threats with KQL queires that were used by Microsoft Sentinel.
+The LAW was then used to help visualize the threats with KQL queries that were used by Microsoft Sentinel.
 Sentinel built attack maps, triggered alerts, and created incidents that were later analyzed and worked. 
 The project has two environments. One was insecure and the other was more secure because it had been hardened after implementing security controls. 
 They were both run for 24 hours and five metrics were used to determine the effectiveness of the security controls. <br>
