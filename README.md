@@ -37,7 +37,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Architecture Before Hardening / Security Controls
 
-![Architecture Before Hardening _ Security Controls](https://github.com/esteban-flores/Azure-SOC-Honey-Net/assets/60724828/fc8bf287-b3d6-4ef9-a408-d76d3daba70a)
+![architecture before drawio](https://github.com/esteban-flores/Azure-SOC-Honey-Net/assets/60724828/8726d104-9488-4c5f-862b-366346ed38e0)
 
 ## Architecture After Hardening / Security Controls
 
